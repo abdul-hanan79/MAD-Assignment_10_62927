@@ -1,0 +1,58 @@
+
+.Question{
+    background-color: var(--background);
+    font-family: Roboto;
+    padding: 5rem 0;
+}
+.Question h1{
+    text-align: center;
+    /* padding-top: 3rem; */
+    font-weight: 700;
+}
+.Question ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2rem;
+}
+.Question ul li{
+    list-style: none;
+    display: block;
+    padding: .5rem 1.8rem;
+    background-color: white;
+    margin-left: 3px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    border-radius: 5px 0 0 5px;
+}
+.Question ul li:nth-child(1){
+    background-color: var(--btnColor);
+    color: white;
+}
+.Question ul li:hover{
+    background-color: var(--btnColor);
+}
+.qa{
+    padding-top: 1rem;
+    margin: 0 12rem ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.qa div{
+    margin-top: 2rem;
+}
+.qa button{
+    border: none;
+    background-color: transparent;
+}
+.qa h6{
+    font-weight: 600;
+    color: #020202;
+}
+.qa span{
+     margin-left: 2rem;
+  
+}
+.qa p{
+    padding-top: .5rem;
+    border-top: 2px dashed #677088;
+}

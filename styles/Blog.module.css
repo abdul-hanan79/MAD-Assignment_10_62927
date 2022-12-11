@@ -1,0 +1,24 @@
+
+.blog{
+    margin: 5rem 5rem;
+
+}
+.blogtext{
+    border-left: 1px solid black;
+    padding-left: 2rem;
+   
+
+}
+.blogtext h1{
+    margin-top: 4rem;
+  
+}
+.blog2{
+    margin-top: 5rem;
+}
+.blogtext a{
+    font-size: 1rem;
+    font-weight: bold;
+    color: var(--btnColor);
+    text-decoration: none;
+}

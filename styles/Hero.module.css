@@ -1,0 +1,30 @@
+
+.hero{
+    background-color: #F9FAFD;
+    width: 100%;
+    height: 70vh;
+    padding-bottom: 2rem;
+}
+
+.heroSection{
+    display: flex;
+    background: url(../pages/assets/hero.png) no-repeat ;
+    background-position: right;
+    background-size: auto;
+    
+  
+
+}
+
+.herotext{
+    color: black;
+    font-family: Roboto;
+    margin: 4rem 7rem;
+}
+.herotext h1{
+    font-weight: bold;
+    width: 50%;
+}
+.herotext p{
+    width: 50%;
+}

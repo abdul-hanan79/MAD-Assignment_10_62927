@@ -1,0 +1,40 @@
+
+.logo{
+    background-color: black;
+    width: 78px;
+    height: 78px;
+   text-align: center;
+}
+.navbar{
+    color: black;
+    font-family: Roboto;
+
+}
+
+.navbar i{
+    color: black;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.navbar span{
+    color: black;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.navbar i span{
+    margin-left: 5px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+.navbar input{
+    margin-left: 10px;
+    border-radius: 5px;
+    border: none;
+    padding: 0.4rem 0;
+   
+}
+
+.searchbar i:nth-of-type(2){
+   position: absolute;
+   right: 15rem;
+}

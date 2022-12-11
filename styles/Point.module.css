@@ -1,0 +1,33 @@
+
+.Point h1{
+    text-align: center;
+    padding-top: 3rem;
+    font-weight: 700;
+   
+}
+.Container{
+    background: url(../pages/assets/logo2.png) no-repeat center;
+}
+
+.heading{
+    width: 68px;
+    height: 68px;
+    background-color: black;
+    border-radius: 50%;
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 0 1.5rem;
+}
+
+.box{
+    display: flex;   
+    padding: 4rem 2rem;
+}
+.box p{
+    margin-left: 1rem;
+}
+.btn{
+   text-align: center;
+}
